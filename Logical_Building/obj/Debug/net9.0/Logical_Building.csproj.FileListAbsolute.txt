@@ -1,0 +1,14 @@
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\bin\Debug\net9.0\Logical_Building.exe
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\bin\Debug\net9.0\Logical_Building.deps.json
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\bin\Debug\net9.0\Logical_Building.runtimeconfig.json
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\bin\Debug\net9.0\Logical_Building.dll
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\bin\Debug\net9.0\Logical_Building.pdb
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\obj\Debug\net9.0\Logical_Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\obj\Debug\net9.0\Logical_Building.AssemblyInfoInputs.cache
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\obj\Debug\net9.0\Logical_Building.AssemblyInfo.cs
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\obj\Debug\net9.0\Logical_Building.csproj.CoreCompileInputs.cache
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\obj\Debug\net9.0\Logical_Building.dll
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\obj\Debug\net9.0\refint\Logical_Building.dll
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\obj\Debug\net9.0\Logical_Building.pdb
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\obj\Debug\net9.0\Logical_Building.genruntimeconfig.cache
+C:\Users\UdayKiran Yarlagadda\OneDrive\Desktop\Logical Building with C#\Logical_Building\obj\Debug\net9.0\ref\Logical_Building.dll
